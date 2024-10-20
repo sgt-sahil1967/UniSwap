@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "1044322181873",
+    "project_id": "uniswap-login",
+    "storage_bucket": "uniswap-login.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1044322181873:android:b695ddb0a2f45861837f50",
+        "android_client_info": {
+          "package_name": "com.mycompany.uniswap"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1044322181873-su4r50un8ka6f6jnpurp2eht3rbumebs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQjJ1DfooIpcDMZpm2oT5lm-PP3vNF1IQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1044322181873-su4r50un8ka6f6jnpurp2eht3rbumebs.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1044322181873-d4nji9e6g77tlp3lrh3081ghvlvvqjc1.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mycompany.uniswap"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1044322181873:android:4d244f28431a166d837f50",
+        "android_client_info": {
+          "package_name": "com.mycompany.uniswap2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1044322181873-su4r50un8ka6f6jnpurp2eht3rbumebs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQjJ1DfooIpcDMZpm2oT5lm-PP3vNF1IQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1044322181873-su4r50un8ka6f6jnpurp2eht3rbumebs.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1044322181873-d4nji9e6g77tlp3lrh3081ghvlvvqjc1.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mycompany.uniswap"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
